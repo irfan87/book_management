@@ -4,6 +4,7 @@ on:
   push:
     paths:
       - 'TODO.md'
+      - '.github/workflows/todo.yml'
 
 jobs:
   todo:
